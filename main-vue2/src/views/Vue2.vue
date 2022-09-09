@@ -1,6 +1,6 @@
 <template>
   <div>
-    <micro-app name="app1" :url="vue2Url" baseroute="/vue2" keep-alive></micro-app>
+    <micro-app name="vue2-micro-app" :url="vue2Url" baseroute="/vue2" keep-alive></micro-app>
   </div>
 </template>
 
